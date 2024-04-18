@@ -1,3 +1,19 @@
 body{
     background-color: #16183F;
 }
+.navbar-brand {
+    color: beige;
+}
+
+.nav-link {
+    color: beige;
+}
+
+.nav-item dropdown{
+    color: beige;
+}
+
+.nav-link active{
+    color: beige;
+}
+
