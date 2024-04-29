@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #16183F;
+    background-color: #14213d;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@ body {
 .message button {
     padding: 1rem;
     font-weight: 400;
-    background-color: #4a4aee;
+    background-color: #fca311;
     border-radius: 2rem;
     border: none;
     outline: none;
@@ -55,7 +55,7 @@ body {
 }
 
 .message button:hover {
-    background-color: #6464f8;
+    background-color: #e5e5e5;
 }
 
 .formulario {
@@ -92,7 +92,7 @@ body {
 }
 
 .border-icon:hover {
-    background-color: #4a4aee;
+    background-color: #fca311;
     cursor: pointer;
 }
 
