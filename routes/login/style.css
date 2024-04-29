@@ -43,7 +43,7 @@ body {
 .message button {
     padding: 1rem;
     font-weight: 400;
-    background-color: #fca311;
+    background-color: #4a4aee;
     border-radius: 2rem;
     border: none;
     outline: none;
@@ -55,7 +55,7 @@ body {
 }
 
 .message button:hover {
-    background-color: #e5e5e5;
+    background-color: #6464f8;
 }
 
 .formulario {
@@ -92,7 +92,7 @@ body {
 }
 
 .border-icon:hover {
-    background-color: #fca311;
+    background-color: #4a4aee;
     cursor: pointer;
 }
 
